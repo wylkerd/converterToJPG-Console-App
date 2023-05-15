@@ -1,0 +1,15 @@
+{
+  "name": "conversortojpgapp",
+  "version": "1.0.0",
+  "description": "Converte arquivos JFIF em imagens JPG utilizando a lib sharp para converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Wylkerd Silva",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
